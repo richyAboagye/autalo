@@ -9,37 +9,37 @@ const Services = (props) => {
         {
             icon: 'fi flaticon-car-repair',
             title: 'Diagnostic',
-            des:'It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures,',
+            des:'Comprehensive vehicle diagnostics to accurately identify and address underlying issues for optimal performance.',
             link:'/service-details'
         },
         {
             icon: 'fi flaticon-battery',
             title: 'Batteries',
-            des:'It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures,',
+            des:'Reliable battery testing, replacement, and maintenance to ensure your vehicle starts and runs smoothly.',
             link:'/service-details'
         },
         {
             icon: 'fi flaticon-electricity',
             title: 'Breaks',
-            des:'It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures,',
+            des:'Expert brake inspection, repair, and replacement services to ensure your safety on the road with reliable performance.',
             link:'/service-details'
         },
         {
             icon: 'fi flaticon-turbo',
             title: 'Engine Repair',
-            des:'It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures,',
+            des:'Professional engine repair and maintenance services to keep your vehicle running at peak performance.',
             link:'/service-details'
         },
         {
             icon: 'fi flaticon-tyre',
             title: 'Tires Replacement',
-            des:'It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures,',
+            des:'Expert tire replacement services for improved safety, performance, and driving comfort.',
             link:'/service-details'
         },
         {
             icon: 'fi flaticon-car-1',
             title: 'Transmission',
-            des:'It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures,',
+            des:'Quality tire replacement services for enhanced safety, performance, and driving comfort.',
             link:'/service-details'
         },
     ]
